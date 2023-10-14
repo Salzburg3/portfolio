@@ -87,10 +87,10 @@ export const NavBar = () => {
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-              <a href="https://www.linkedin.com/in/joseph-suberu-a57528229/">
+              <a href="https://www.linkedin.com/in/kehinde-james-1b2324274/">
                 <img src={LinkedinLogo} alt="linkedin logo" />
               </a>
-              <a href="https://github.com/adexterity">
+              <a href="https://github.com/Salzburg3">
                 <img src={GithubLogo} alt="github logo" />
               </a>
             </div>
