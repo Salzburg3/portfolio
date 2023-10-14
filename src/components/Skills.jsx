@@ -6,14 +6,11 @@ import htmlIcon from "../assets/img/html-icon.svg";
 import cssIcon from "../assets/img/css.svg";
 import javascriptIcon from "../assets/img/javascript.svg";
 import bootstrapIcon from "../assets/img/bootstrap.svg";
-import figmaIcon from "../assets/img/figma.svg";
 import illustratorIcon from "../assets/img/illustratorIcon.svg";
 import npmIcon from "../assets/img/npm.svg";
-import reduxIcon from "../assets/img/reduxIcon.svg";
 import reactIcon from "../assets/img/react.png";
 import sassIcon from "../assets/img/sass.svg";
 import tailwindIcon from "../assets/img/tailwind.svg";
-import vueIcon from "../assets/img/vueIcon.svg";
 import colorSharp from "../assets/img/color-sharp.png";
 
 export const Skills = () => {
